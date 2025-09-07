@@ -1,0 +1,6 @@
+BEGIN
+  SET length = 5
+  SET width = 3
+  SET area = length * width
+  PRINT area
+END
