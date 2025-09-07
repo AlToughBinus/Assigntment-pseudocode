@@ -1,0 +1,6 @@
+BEGIN
+  INPUT length = 10
+  INPUT width = 5
+  SET area = length * width
+  PRINT area
+END
